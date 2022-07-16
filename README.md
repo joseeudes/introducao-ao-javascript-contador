@@ -1,2 +1,2 @@
 # introducao-ao-javascript-contador
-Projeto DIO - Contador
+Desafio DIO - Contador
